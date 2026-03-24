@@ -3,7 +3,7 @@
 A Machine Learning web application that detects whether a news article is **Real or Fake** using Natural Language Processing (NLP).
 
 ## 🚀 Live Demo
-[Click here to view the app](#) <!-- Replace with your Streamlit Cloud URL after deployment -->
+[Click here to view the app](fake-news-detection-v69.streamlit.app) 
 
 ## 📌 Features
 - Detects fake vs real news articles
